@@ -25,7 +25,7 @@ Esta aplicación en Python crea una interfaz gráfica simple para leer tarjetas 
 
 - Python
 - Bibliotecas Gtk y GLib
-- Biblioteca `puzzle1` (para la lectura de tarjetas NFC)
+- Biblioteca `puzzle_1_3` (para la lectura de tarjetas NFC). [Ver en GitHub](https://github.com/AxelBuenoTome/Puzzle1/blob/main/puzzle1.py)
 
 ## Notas
 
